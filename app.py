@@ -150,5 +150,5 @@ else:
     st.subheader("Yield power law (YPL) model provides the best fit to the data.")
     
 #Final remarks-----------------------------------------------------------------
-st.write("Developer: Taran Aulakh (taranpal.a.aulakh@gmail.com)")
+st.write("Developer: Taran Aulakh (taranpal.s.aulakh@gmail.com)")
 st.write("Source code: https://github.com/tsaulakh/fluidprofile")
